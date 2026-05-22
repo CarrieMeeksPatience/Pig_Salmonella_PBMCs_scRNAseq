@@ -13,4 +13,4 @@ More detailed information of materials can be found under a heading for each res
 
 # Data files
 
-Selected processed output files/data from analyses described in our scripts can be found in the Ag Data Commons at  . Raw data used for analysis can be found at https://www.ebi.ac.uk/ena/ .
+Selected processed output files/data from analyses described in our scripts can be found in the Ag Data Commons at  . Raw data used for analysis can be found at https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1469654.
