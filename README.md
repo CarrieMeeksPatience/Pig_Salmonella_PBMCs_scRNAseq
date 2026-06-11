@@ -3,11 +3,11 @@ This repository contains scripts used to perform data analyses as detailed in th
 
 Preprint:
 
-Carrie S. Meeks-Patience, Mehak Kapoor, Kristen A. Byrne, Christopher L. Anderson, Jack C. M. Dekkers, Crystal L. Loving, Christopher K. Tuggle. "Compositional and transcriptional changes in specific porcine mononuclear blood cell populations following Salmonella challenge". (2026) bioRxiv 
+Carrie S. Meeks-Patience, Mehak Kapoor, Kristen A. Byrne, Christopher L. Anderson, Jack C. M. Dekkers, Crystal L. Loving, Christopher K. Tuggle. "Single-cell RNA-sequencing delineates compositional and transcriptional changes of porcine peripheral blood mononuclear cell populations following Salmonella I 4,{5},12:i:- inoculation". (2026) bioRxiv 
 
 Final publication:
 
-Carrie S. Meeks-Patience, Mehak Kapoor, Kristen A. Byrne, Christopher L. Anderson, Jack C. M. Dekkers, Crystal L. Loving, Christopher K. Tuggle. "Compositional and transcriptional changes in specific porcine mononuclear blood cell populations following Salmonella challenge". (2026) Frontiers in Immunology. Available at: doi.org/
+Carrie S. Meeks-Patience, Mehak Kapoor, Kristen A. Byrne, Christopher L. Anderson, Jack C. M. Dekkers, Crystal L. Loving, Christopher K. Tuggle. "Single-cell RNA-sequencing delineates compositional and transcriptional changes of porcine peripheral blood mononuclear cell populations following Salmonella I 4,{5},12:i:- inoculation". (2026) Frontiers in Immunology. Available at: doi.org/
 
 More detailed information of materials can be found under a heading for each respective directory.
 
