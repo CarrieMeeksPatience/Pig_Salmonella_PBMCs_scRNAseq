@@ -1,7 +1,7 @@
 # Pig_Salmonella_PBMCs_scRNAseq
 This repository contains scripts used to perform data analyses as detailed in the publication by Meeks-Patience, as listed below:
 
-Carrie S. Meeks-Patience, Mehak Kapoor, Kristen A. Byrne, Christopher L. Anderson, Jack C. M. Dekkers, Crystal L. Loving, Christopher K. Tuggle. "Single-cell RNA-sequencing delineates compositional and transcriptional changes of porcine peripheral blood mononuclear cell populations following Salmonella I 4,{5},12:i:- inoculation". (2026) Frontiers in Immunology. Available at: doi.org/
+Meeks-Patience CS, Kapoor M, Byrne KA, Anderson CL, Dekkers JCM, Loving CL and Tuggle CK (2026) Single-cell RNA sequencing delineates compositional and transcriptional changes of porcine peripheral blood mononuclear cell populations following Salmonella I 4,[5],12:i:- inoculation. Front. Immunol. 17:1968450. doi: 10.3389/fimmu.2026.1968450
 
 More detailed information of materials can be found under a heading for each respective directory.
 
